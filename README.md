@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Joy 👋
 
-<!--
-**duwlsssss/duwlsssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 안녕하세요 사용자에게 공감하는 프론트엔드 개발자 김여진입니다.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 **Education**
+
+숭실대학교 (2021.03~)
+
+🏫 **Major**
+
+IT대학 글로벌미디어학부
+
+✉️ **E-Mail**
+
+kimlj0814@naver.com
+
+<br/>
